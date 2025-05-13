@@ -1,0 +1,14 @@
+Integrantes:
+
+Gabriel Tomazini Marani
+Paulo Victor Nogueira Rodrigues
+
+O sistema é um cadastro de personagens de RPG, estamos utilizando cinco atributos:
+
+-Id;
+-Nome;
+-Classe;
+-Espécie;
+-Nível;
+
+Obs:. Não conseguimos rodar com "pyro5-ns", utilizamos "python -m Pyro5.nameserver --host localhost --port 9090"
